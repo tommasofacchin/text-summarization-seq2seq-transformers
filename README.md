@@ -1,1 +1,1 @@
-# text-summarization-seq2seq-transformers
+# text-summarization-transformer-from-scratch
